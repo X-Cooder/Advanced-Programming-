@@ -1,0 +1,14 @@
+C:\Users\dumie\OneDrive\Desktop\knowledge\Advanced Programming\Advanced programming 2.0\Advanced programming 2\bin\Debug\net9.0\Advanced programming 2.exe
+C:\Users\dumie\OneDrive\Desktop\knowledge\Advanced Programming\Advanced programming 2.0\Advanced programming 2\bin\Debug\net9.0\Advanced programming 2.deps.json
+C:\Users\dumie\OneDrive\Desktop\knowledge\Advanced Programming\Advanced programming 2.0\Advanced programming 2\bin\Debug\net9.0\Advanced programming 2.runtimeconfig.json
+C:\Users\dumie\OneDrive\Desktop\knowledge\Advanced Programming\Advanced programming 2.0\Advanced programming 2\bin\Debug\net9.0\Advanced programming 2.dll
+C:\Users\dumie\OneDrive\Desktop\knowledge\Advanced Programming\Advanced programming 2.0\Advanced programming 2\bin\Debug\net9.0\Advanced programming 2.pdb
+C:\Users\dumie\OneDrive\Desktop\knowledge\Advanced Programming\Advanced programming 2.0\Advanced programming 2\obj\Debug\net9.0\Advanced programming 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dumie\OneDrive\Desktop\knowledge\Advanced Programming\Advanced programming 2.0\Advanced programming 2\obj\Debug\net9.0\Advanced programming 2.AssemblyInfoInputs.cache
+C:\Users\dumie\OneDrive\Desktop\knowledge\Advanced Programming\Advanced programming 2.0\Advanced programming 2\obj\Debug\net9.0\Advanced programming 2.AssemblyInfo.cs
+C:\Users\dumie\OneDrive\Desktop\knowledge\Advanced Programming\Advanced programming 2.0\Advanced programming 2\obj\Debug\net9.0\Advanced programming 2.csproj.CoreCompileInputs.cache
+C:\Users\dumie\OneDrive\Desktop\knowledge\Advanced Programming\Advanced programming 2.0\Advanced programming 2\obj\Debug\net9.0\Advanced programming 2.dll
+C:\Users\dumie\OneDrive\Desktop\knowledge\Advanced Programming\Advanced programming 2.0\Advanced programming 2\obj\Debug\net9.0\refint\Advanced programming 2.dll
+C:\Users\dumie\OneDrive\Desktop\knowledge\Advanced Programming\Advanced programming 2.0\Advanced programming 2\obj\Debug\net9.0\Advanced programming 2.pdb
+C:\Users\dumie\OneDrive\Desktop\knowledge\Advanced Programming\Advanced programming 2.0\Advanced programming 2\obj\Debug\net9.0\Advanced programming 2.genruntimeconfig.cache
+C:\Users\dumie\OneDrive\Desktop\knowledge\Advanced Programming\Advanced programming 2.0\Advanced programming 2\obj\Debug\net9.0\ref\Advanced programming 2.dll
